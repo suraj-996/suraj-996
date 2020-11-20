@@ -1,16 +1,20 @@
 ### Hi there 👋
+I am Suraj Kumar from Patna, India.
 
-<!--
-**Digitalsuraj/Digitalsuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😄 Pronouns
+He/Him
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning ...
+- Mern Stack, Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What do I do?
+- ✔️ Though I have completed my 12th, I aspire to work as a programmer.
+
+- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
+
+### ⚡ One line that describes me best? 
+A hard working boy who enjoys good humour & coding.😉😉
+
+### 📫 How can you reach me?
+Connect with me on [LinkedIn](https://www.linkedin.com/in/digitalsurajbabu).
+
