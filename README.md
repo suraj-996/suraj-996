@@ -16,5 +16,18 @@ He/Him
 A hard working boy who enjoys good humour & coding.😉😉
 
 ### 📫 How can you reach me?
-Connect with me on [LinkedIn](https://www.linkedin.com/in/digitalsurajbabu).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/suraj-996).
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=suraj-996)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-996)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-996&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=suraj-996)  
+
+![GitHub metrics](https://metrics.lecoq.io/suraj-996)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suraj-996)  
+
+![Profile views](https://gpvc.arturio.dev/suraj-996)  
