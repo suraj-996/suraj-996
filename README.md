@@ -64,8 +64,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/suraj996/).
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suraj-996)  
-
 ![Profile views](https://gpvc.arturio.dev/suraj-996)  
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
