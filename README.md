@@ -5,7 +5,7 @@ I am Suraj Kumar from Patna, India.
 He/Him
 
 ### 🌱 I’m currently learning ...
-- Mern Stack, Aspiring Full Stack Developer
+- Java, Aspiring Java Developer
 
 ### 🌱 What do I do?
 - ✔️ Though I have completed my 12th, I aspire to work as a programmer.
@@ -32,7 +32,7 @@ A hard working boy who enjoys good humour & coding.😉😉
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mongodb"  height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
