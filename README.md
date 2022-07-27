@@ -35,10 +35,6 @@ A hard working boy who enjoys good humour & coding.😉😉
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"  height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
-      <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/>
 </p></span>
 
 <br><br>
