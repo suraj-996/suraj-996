@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suraj!]([https://bio.link/kunalk](https://suraj-996.github.io/links) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suraj!](https://suraj-996.github.io/links) 
 
 ### 🌱 I’m currently learning ...
 - Java, Aspiring Java Developer
