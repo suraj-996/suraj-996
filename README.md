@@ -6,7 +6,7 @@
 ### 🌱 What do I do?
 - ✔️ Though I have completed my 12th, I aspire to work as a programmer.
 
-- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
+- ✔️I'm a fast learner looking for interesting career opportunities as a Java developer. 
 
 ### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
