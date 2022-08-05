@@ -11,7 +11,7 @@
 ### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
 
-### 📫 How can you reach me?
+### 📫 How can you reach me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/suraj-996)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suraj996/)
