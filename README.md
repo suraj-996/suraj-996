@@ -1,5 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suraj!](https://suraj-996.github.io/links) from Patna, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suraj!](https://suraj-996.github.io/links) 
 
+### 🌱 I’m from Patna, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 ### 🌱 I’m currently learning ...
 - Java, Aspiring Java Developer
 
