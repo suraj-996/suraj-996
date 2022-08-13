@@ -22,7 +22,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=suraj-996)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub metrics](https://metrics.lecoq.io/suraj-996)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/suraj-996)  -->
 <span><h2 align="center">Languages and Tools:</h2>
   <br>
   <p align="center">
