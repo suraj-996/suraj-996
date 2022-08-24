@@ -54,4 +54,4 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-hello my name is Suraj
+hello my name is Suraj Kumar
