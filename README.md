@@ -19,8 +19,9 @@ A hard working boy who enjoys good humour & coding.😉😉
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Digitalsuraj/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-996&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="suraj-996" />
-</p>
+<span><h2 align="center">Languages and Tools:</h2>
+  <br>
+  <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
