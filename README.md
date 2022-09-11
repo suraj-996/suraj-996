@@ -48,6 +48,6 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ![Profile views](https://gpvc.arturio.dev/suraj-996)  
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
