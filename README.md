@@ -47,27 +47,8 @@ A hard working boy who enjoys good humour & coding.😉😉
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ![Profile views](https://gpvc.arturio.dev/suraj-996)  
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
 
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
 
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "suraj-996");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "suraj-996", { responsive: true });
-</script>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
