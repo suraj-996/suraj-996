@@ -8,6 +8,8 @@
 - ✔️ Though I have completed my 12th, I aspire to work as a programmer.
 
 - ✔️I'm a fast learner looking for interesting career opportunities as a Java developer. 
+- 🔭 I just launched my portfolio: **[https://suraj-996.github.io/](https://suraj-996.github.io)**
+- 💼 See my experience over the year: **[Resume](https://github.com/suraj-996/suraj-996/blob/main/Suraj_Kumar_Resume%20(2).pdf)**
 
 ### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
