@@ -1,4 +1,4 @@
-## Hey , I'm [Suraj Kumar!](https://suraj-996.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+### Hey , I'm [Suraj Kumar!](https://suraj-996.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ###  🌱 I’m from Patna, Bihar, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 ###  🌱 I’m currently learning ...
@@ -44,6 +44,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
+
  
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=suraj-996&theme=tokyonight&border_radius=10" alt="Suraj" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=suraj-996&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
@@ -63,4 +64,4 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-
+Helloooo
