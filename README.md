@@ -65,5 +65,3 @@ A hard working boy who enjoys good humour & coding.😉😉
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
-
-hello
