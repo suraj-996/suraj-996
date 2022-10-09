@@ -53,7 +53,7 @@ A hard working boy who enjoys good humour & coding.😉😉
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-996&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=suraj-996&theme=dark&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=suraj-996&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
 <div>
 
   
