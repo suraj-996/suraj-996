@@ -9,7 +9,7 @@
 
 - ✔️ I'm a fast learner looking for interesting career opportunities as a Java developer. 
 - 🔭 Checkout my portfolio: **[Portfolio](https://suraj-996.github.io)**
-- 💼 See my resume: **[Resume](https://github.com/suraj-996/suraj-996/blob/main/Suraj_Kumar_Resume%20(2).pdf)**
+- 💼 See my resume: **[Resume](https://github.com/suraj-996/suraj-996/blob/main/Suraj-Kumar-Resume.pdf)**
 
 ### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
